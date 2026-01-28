@@ -1,5 +1,7 @@
 # Jade: unhide
-Jade: Unhide is a Mod that let [Jade](//github.com/Snownee/Jade) don't hide blocks like: 
+### This Mod based on [Jade](//github.com/Snownee/Jade) by [Snownee](//github.com/Snownee)
+
+Jade: Unhide is a Mod that let Jade don't hide blocks like: 
 - Powder Snow
 - Trapped Chest
 - Suspicious Sand/Gravel
