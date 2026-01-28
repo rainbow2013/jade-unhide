@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "jade-unhide",
+	"version": "${version}",
+	"name": "Jade: Unhide",
+	"description": "This Mod let hidden blocks on Jade show themselves!",
+	"authors": [
+		"rainbow2013"
+	],
+	"license": "MIT",
+	"icon": "assets/jade-unhide/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"rb13.addon.jade.unhide.JadeUnhide"
+		]
+	},
+	"mixins": [
+		"jade-unhide.mixins.json"
+	],
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

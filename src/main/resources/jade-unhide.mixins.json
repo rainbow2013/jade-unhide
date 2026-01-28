@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "rb13.addon.jade.unhide.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"JadeClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
