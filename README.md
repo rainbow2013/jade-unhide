@@ -7,7 +7,7 @@ Jade: Unhide is a Mod that let Jade don't hide blocks like:
 - Suspicious Sand/Gravel
 - Infested Blocks
 
-Make it doesn't hide blocks is what some players using Jade want, [Jade Issue #465](//github.com/Snownee/Jade/issues/465) and [Jade Issue #341](//github.com/Snownee/Jade/issues/341) are the proofs.
+Make it doesn't hide blocks is what some players using Jade want, [Jade Issue #465](//github.com/Snownee/Jade/issues/465) and [Jade Issue #341](//github.com/Snownee/Jade/issues/341) could prove that.
 
 This Mod lets you don't need to worry about is this 
 - stone infested
